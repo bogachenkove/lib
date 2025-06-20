@@ -1,0 +1,14 @@
+cdn.whatsapp.net
+app.avito.ru
+socket.avito.ru
+gpb.ru
+alfabank.ru
+alfabank.servicecdn.ru
+api.hh.ru
+loyalty-api.dixy.ru
+proxy.mob.maps.yandex.net
+sberbank.ru
+vtb.ru
+passport.yandex.ru
+login.yandex.ru
+googleapis.com
