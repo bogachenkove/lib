@@ -1,0 +1,10 @@
+imap.gmail.com
+imap.yandex.com
+imap.outlook.com
+googleapis.com
+oauth.yandex.ru
+oauth.yandex.com
+login.microsoftonline.com
+injections.adguard.org
+local.adguard.org
+signal.org

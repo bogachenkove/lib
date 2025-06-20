@@ -1,4 +1,4 @@
-cdn.whatsapp.net
+whatsapp.net
 app.avito.ru
 socket.avito.ru
 gpb.ru
@@ -10,5 +10,15 @@ proxy.mob.maps.yandex.net
 sberbank.ru
 vtb.ru
 passport.yandex.ru
+id.yandex.ru
+signal.org
 login.yandex.ru
 googleapis.com
+injections.adguard.org
+local.adguard.org
+oauth.yandex.ru
+oauth.yandex.com
+login.microsoftonline.com
+imap.gmail.com
+imap.yandex.com
+imap.outlook.com
