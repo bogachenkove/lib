@@ -8,7 +8,6 @@ api.hh.ru
 loyalty-api.dixy.ru
 proxy.mob.maps.yandex.net
 sberbank.ru
-vtb.ru
 passport.yandex.ru
 id.yandex.ru
 signal.org
@@ -22,3 +21,9 @@ login.microsoftonline.com
 imap.gmail.com
 imap.yandex.com
 imap.outlook.com
+bitget.com
+bitgetapp.com
+kucoin.com
+kuweb3.net
+mtsdengi.ru
+okx.com
