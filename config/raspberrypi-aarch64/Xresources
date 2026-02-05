@@ -25,6 +25,3 @@ URxvt.matcher.button: 1
 URxvt.urlLauncher: chromium
 URxvt.colorUL: #3246a8
 URxvt.geometry: 100x40
-
-Xcursor.theme: DMZ-White
-Xcursor.size: 24

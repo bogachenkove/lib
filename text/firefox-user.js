@@ -614,12 +614,6 @@ user_pref("browser.preferences.moreFromMozilla", false);
 // [NOTE] The Default Browser Agent task checks to see if the default value has changed from Firefox to another browser.
 user_pref("default-browser-agent.enabled", false);
 
-// WebRTC
-user_pref("media.peerconnection.enabled", false);
-user_pref("media.peerconnection.ice.proxy_only", true);
-user_pref("media.peerconnection.ice.proxy_only_if_behind_proxy", true);
-user_pref("media.peerconnection.ice.default_address_only", true);
-
 // Атрибут rel=noopener
 // rel=noopener attribute
 user_pref("dom.targetBlankNoOpener.enabled", false);

@@ -1,6 +1,0 @@
-set number
-syntax on
-set noswapfile
-set wrap
-set ttyfast
-set encoding=utf8

@@ -1,6 +1,0 @@
-#!/bin/sh
-
-exec i3
-xrdb ~/.Xresources
-exec_always --no-startup-id xsetroot -solid '#003760'
-exec_always setxkbmap -layout us,ru -option 'grp:alt_shift_toggle'
